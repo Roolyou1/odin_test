@@ -1,0 +1,39 @@
+section h2 {
+color: rgb(0, 0, 0);
+border: 5px solid;
+text-align: center;
+font-size: 50px;
+background-color: slateblue;
+margin:5%;
+padding: 5px;
+}
+section img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+    border: 5px solid;
+    color: rgb(32, 5, 5);
+}
+body {
+background-color: rgb(182, 132, 67);
+text-align: center;
+border: 10px solid;
+}
+section ul {
+
+font-style: oblique;
+font-size: 20px;
+margin:1cm;
+text-align: center;
+
+}
+section h1 {
+color: rgb(0, 0, 0);
+border: 5px solid;
+padding: 1cm;
+margin: 1cm;
+background-color: slateblue;
+font-size: 28px;
+}
+
+
